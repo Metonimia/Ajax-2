@@ -1,0 +1,45 @@
+body {
+	background: #9068be;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	text-align: center; 
+}
+
+h1 {
+	padding: 10vh 0;
+	font-size: 35px;
+}
+
+.quote {
+	padding-top: 8vh;
+	font-size: 23px;
+}
+
+.author {
+	padding-bottom: 15vh;
+	font-size: 23px;
+}
+
+.trigger {
+	display: block;
+	width: 50vw;
+	background-color: #9068be;
+	color: white;
+	margin: 2vh 25vw;
+	font-size: 16px;
+	padding: 1% 0;
+	border-color: white;
+	border-width: 0.5px;
+	border-radius: 5%;
+	cursor: pointer;
+
+
+}
+
+.tweet {
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 3%;
+	cursor: pointer;
+}
